@@ -4,6 +4,6 @@
 	echo "Udemy!";
 
 	echo "Olá mundo123";
-	echo "Dai"
+	echo "Dai";
 
 ?>
